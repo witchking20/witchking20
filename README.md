@@ -26,7 +26,7 @@
 </div> 
    
 <div align='left'>
-   <a href="mailto:witchking20@gmail.com">
+   <a href="https://witchking20.github.io">
       <img src="https://img.shields.io/badge/GithubPages-222222?style=flat&logo=GithubPages&logoColor=white">
    </a>
 </div>

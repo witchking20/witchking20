@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=개발자%20꿈나무%20김호준입니다&fontSize=50" width="100%"/>
 
 <div align='left'>
-   <h2>Intermediate skill</h2>
+   <h2>Intermediate-level skill</h2>
 </div>  
 
 <div align='left'>

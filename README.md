@@ -21,6 +21,7 @@
    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
    <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white">
    <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
+   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
    
 </div>
 

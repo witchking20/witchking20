@@ -43,7 +43,7 @@
    
 <div align='left'>
    <a href="https://witchking20.github.io">
-      <img src="https://img.shields.io/badge/GithubPages-222222?style=flat&logo=GithubPages&logoColor=white">
+      <img src="https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=Blogger&logoColor=white">
    </a>
 </div>
 

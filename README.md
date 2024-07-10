@@ -23,6 +23,7 @@
    <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
    <img src="https://img.shields.io/badge/Linux-DA3B8A?style=flat&logo=Linux&logoColor=white">
    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white">
+   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
    
 </div>
 
@@ -42,7 +43,7 @@
 </div> 
    
 <div align='left'>
-   <a href="https://witchking20.github.io">
+   <a href="https://kimhojun1997.blogspot.com/">
       <img src="https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=Blogger&logoColor=white">
    </a>
 </div>
